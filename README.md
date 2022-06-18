@@ -1,6 +1,6 @@
 # 2-player-Culmanating
 A culmanating game for comp-sci
 
-To Play download as a zip and extract to a folder
+To Play download as a zip and extract the Culmanating Game folder
 
-MAKE SURE TO KEEP THE IMAGE IN THE SAME FOLDER AS THE .EXE
+Go to Culmanating game\output\main and open the main.exe
